@@ -1,4 +1,4 @@
-package com.example.consumer.kafkaconsumer.config;
+package com.example.consumer.kafkaconsumer.app.config;
 
 import io.github.resilience4j.circuitbreaker.CircuitBreakerConfig;
 import io.github.resilience4j.timelimiter.TimeLimiterConfig;

@@ -10,11 +10,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>com.example.consumer</groupId>
-	<artifactId>kafka-consumer</artifactId>
+	<groupId>com.example</groupId>
+	<artifactId>simplified-picpay-notification</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>kafka-consumer</name>
-	<description>Kafka consumer</description>
+	<name>simplified-picpay-notification</name>
+	<description>Simplified Picpay Notification</description>
 
 	<properties>
 		<java.version>17</java.version>
